@@ -58,7 +58,7 @@ Secara default nama branch di git adalah master, untuk mengubahnya kita harus be
 ### Mengubah isi repo tanpa branching dan merging
 Jika terdapat perubahan pada isi repo kita harus menandai perubahan tersebut dengan melakukan commit.
 
-Buka folder repo ke text editor, lalu tambahkan file beri nama `README.md`. Lalu ketikkan perintah:
+Buka folder repo ke text editor, lalu tambahkan file kedalam folder repo tersebut lalu beri nama `README.md`. Lalu ketikkan perintah:
 
 ```bash
 git add .
